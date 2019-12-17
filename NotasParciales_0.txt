@@ -1,0 +1,10 @@
+Julio:M:20:18:19
+Alejandro:M:14:15:16
+Alfonzo:M:14:8:17
+Alberto:M:18:19:14
+Enrique:M:20:10:15
+Jainny:F:6:12:4
+Irene:F:10:17:15
+María:F:13:14:19
+Mildrey:F:10:17:7
+Johanna:F:9:15:10
